@@ -3,7 +3,7 @@
 <ol> 
   <li> Linked List</li>
     <ol>
-      <li> Single Linked List </li>
+      <li> <a href="https://github.com/kothakondachandhar/datastructures/blob/main/SLL.docx">Single Linked List </li>
     </ol>
   
 </ol>
