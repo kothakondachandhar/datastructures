@@ -14,5 +14,6 @@
   <li> UNIT - IV </li>
   <ol>
     <li> Radix Sort - Using buckets & Counting array</li>
+    <li> <a href="https://github.com/kothakondachandhar/datastructures/blob/main/Shell%20Sort.pdf">Shell Sort</a></li>
   </ol>
 </ol>
