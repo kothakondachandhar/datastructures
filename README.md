@@ -7,7 +7,7 @@
 <ol>
 <li> UNIT - II </li>
 <ol>
-  <li><a href=""> Stack Implemntaion Using Array & Linked LIst</li>
+  <li><a href="https://github.com/kothakondachandhar/datastructures/blob/main/Stack%20Implementation%20using%20Array%20and%20Linked%20List.pdf"> Stack Implemntaion Using Array & Linked LIst</li>
 </ol>
 
 
